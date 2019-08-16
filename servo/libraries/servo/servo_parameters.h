@@ -1,0 +1,37 @@
+#ifndef SERVO_PARAMETERS_H
+#define SERVO_PARAMETERS_H
+
+#define PWM_MOTOR_OUTPUT_PIN 10
+#define MOTOR_A1_OUTPUT_PIN 12
+#define MOTOR_B1_OUTPUT_PIN 11
+
+#define MOTOR_STATE_BRAKE 0
+#define MOTOR_STATE_CW 1
+#define MOTOR_STATE_CCW 2
+
+#define MOTOR_MIN_PWM 30
+#define MOTOR_MAX_PWM 255
+
+#define MOTOR_GRAVITY_FEED_FORWARD_PWM 75
+
+#define DEAD_BAND_WINDOW 2
+
+#define MOTOR_MAX_ROTATION 360
+
+#define ACE_CPR 128
+
+#define ACE_INPUT_PIN_1 2
+#define ACE_INPUT_PIN_2 3
+#define ACE_INPUT_PIN_3 4
+#define ACE_INPUT_PIN_4 5
+#define ACE_INPUT_PIN_5 6
+#define ACE_INPUT_PIN_6 7
+#define ACE_INPUT_PIN_7 8
+#define ACE_INPUT_PIN_8 9
+
+#define PID_P 0.25
+#define PID_I 0
+#define PID_D 0
+#define PID_F 0
+
+#endif

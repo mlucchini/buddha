@@ -1,0 +1,6 @@
+#ifndef MEMORY_PARAMETERS_H
+#define MEMORY_PARAMETERS_H
+
+#define DATA_ADDRESS 0
+
+#endif

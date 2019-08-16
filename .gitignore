@@ -1,0 +1,22 @@
+# MacOSX
+.DS_Store
+
+# JetBrains
+.idea
+
+# CMake
+build-*
+cmake-build-debug
+
+# Python
+__pycache__/
+.cache/
+*.x
+*.pyc
+*.class
+_build/
+.pytest_cache/
+dist/
+*.egg-info
+dist/
+build/
