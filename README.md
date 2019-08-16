@@ -5,7 +5,7 @@
 ### Servos
 
 Upload the servo sketch to an Arduino board connected to a NVH2SP30 driver, an
-ACE128 absolute position encoder and a DC motor (Open Astra windshield wipers in my case).
+ACE128 absolute position encoder and a DC motor (Opel Astra windshield wipers in my case).
 Follow the controller's README to configure the servos appropriately.
 
 ```sh
