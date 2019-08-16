@@ -1,6 +1,10 @@
 # Buddha
 
-6 degrees of freedom.
+<p align="center">
+  <img src="doc/demo.gif" alt="Buddha at work" style="border: 1px solid black">
+  </br>
+  Loop animation mode
+</p>
 
 ### Servos
 
@@ -15,6 +19,7 @@ make upload
 cd ../controller
 cat README.md
 ```
+
 
 ### Controller
 
